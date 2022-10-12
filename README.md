@@ -21,3 +21,13 @@
   <img src="https://media.giphy.com/media/sr8jYZVVsCmxddga8w/giphy.gif" width="30px"/>
 </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me:
+I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+- :1st_place_medal: The most responsible person on the planet.
+- :man_student: Diligent student.
+- :sleeping_bed: I really need to sleep enough.
