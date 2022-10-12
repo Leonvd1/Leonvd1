@@ -47,3 +47,7 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leonvd1&theme=dark&border_radius=20)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonvd1)](https://github.com/Leonvd1/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leonvd1)](https://github.com/Leonvd1/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leonvd1)](https://github.com/Leonvd1/github-profile-trophy)
